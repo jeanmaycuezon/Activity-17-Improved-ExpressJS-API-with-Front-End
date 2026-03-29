@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../backend/Improved-ExpressJS-API/config"
+		},
+		{
+			"path": "../../backend/Improved-ExpressJS-API/node_modules"
+		},
+		{
+			"path": "../../backend/Improved-ExpressJS-API/uploads"
+		}
+	]
+}
